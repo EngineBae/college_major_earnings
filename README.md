@@ -1,9 +1,8 @@
 # college_major_earnings
 
-Data visualization of data collected by [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/college-majors).
-Data is from American Community Survey from 2010 to 2012.
+Data visualization of the American Community Survey from 2010 to 2012. The data was collected and cleaned by [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/college-majors).
 
-Headers for 'recent-grads.csv' are below as shown from the FiveThirtyEight git hub link.
+The table below shows the headers and descriptions for 'recent-grads.csv':
 
 Header | Description
 ---|---------
